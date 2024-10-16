@@ -1,0 +1,7 @@
+pip install Flask google-api-python-client youtube-python flask-cors google-auth-oauthlib
+
+how to run
+
+python app.py
+
+npm start
